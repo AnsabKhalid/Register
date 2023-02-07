@@ -1,0 +1,38 @@
+
+* {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    }
+    
+    html, body {
+    height: 100%;
+    background-color: #e0e0d1;
+    }
+    
+    #container {
+    min-height: 90%;
+    }
+    
+    main {
+    overflow: auto;
+    padding-bottom: 150px;
+    }
+    
+    header {
+    position: relative;
+    background-color: #ff77;
+    height: 100px;
+    width: 100%;
+    }
+    
+    footer {
+    position: relative;
+    background-color: #111;
+    height: 100px;
+    width: 100%;
+    }
+
+    .w-5 {
+        display: none;
+    }
